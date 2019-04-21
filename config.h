@@ -6,7 +6,7 @@
  * font: see http://freedesktop.org/software/fontconfig/fontconfig-user.html
  */
 //static char *font = "SauceCodePro Nerd Font Mono:style=Light:pixelsize=18:antialias=true:autohint=true";
-static char *font = "SF Mono:pixelsize=14";
+static char *font = "monospace:size=11";
 static int borderpx = 10;
 
 /*
